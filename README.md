@@ -3,4 +3,4 @@
 Repositorio con los ejercicios y prácticas de clase.
 
 ## Autor
-* **Lizeth Roa**
+* **Roa Benalcazar Dana Lizeth**
