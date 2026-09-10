@@ -1,4 +1,4 @@
-# Ejercicio 1 — Información personal
+# Ejercicio 1 — Información personall
 # =============================================================================
 def ejercicio_1():
     print("\n--- EJERCICIO 1: INFORMACIÓN PERSONAL ---")
@@ -32,7 +32,6 @@ def ejercicio_2():
         print("Error: Debe ingresar un valor numérico.")
 
 # =============================================================================
-# PARTE 3. Ciclos
 # Ejercicio 3 — Números
 # =============================================================================
 def ejercicio_3():
@@ -72,7 +71,6 @@ def ejercicio_3():
     print(f"\n5. La suma de todos los números del 1 al 100 es: {suma_total}")
 
 # =============================================================================
-# PARTE 4. Funciones
 # Ejercicio 4 — Calculadora
 # =============================================================================
 def sumar(a, b):
@@ -124,7 +122,6 @@ def ejercicio_4():
             print("Opción inválida. Intente de nuevo.")
 
 # =============================================================================
-# PARTE 5. Primer contacto con estructuras de datos
 # Ejercicio 5 — Muchas variables... ¿un problema?
 # =============================================================================
 def ejercicio_5():
@@ -166,7 +163,6 @@ def ejercicio_5():
     print(f"Cantidad de aprobados: {aprobados}")
 
 # =============================================================================
-# PARTE 6. Mi primera lista
 # Ejercicio 6 — Estudiantes
 # =============================================================================
 def ejercicio_6():
@@ -199,7 +195,6 @@ def ejercicio_6():
         print(f"13. Estudiante '{buscado}' no encontrado.")
 
 # =============================================================================
-# PARTE 7. Trabajando con datos
 # Ejercicio 7 — Notas (Sin utilizar max(), min() ni sum())
 # =============================================================================
 def ejercicio_7():
@@ -244,7 +239,6 @@ def ejercicio_7():
     print(f"20. Notas mayores que el promedio ({promedio:.2f}): {mayores_promedio}")
 
 # =============================================================================
-# PARTE 8. Buscar información
 # Ejercicio 8 — Búsqueda
 # =============================================================================
 def ejercicio_8():
@@ -276,7 +270,6 @@ def ejercicio_8():
         print(f"El producto '{busqueda}' NO fue encontrado en la lista.")
 
 # =============================================================================
-# PARTE 9. Matrices
 # Ejercicio 9 — Notas de un grupo
 # =============================================================================
 def ejercicio_9():
@@ -328,7 +321,6 @@ def ejercicio_9():
     print(f"4. Nota menor del grupo: {nota_menor}")
 
 # =============================================================================
-# PARTE 10. RETO FINAL
 # Ejercicio 10 — Sistema de estudiantes
 # =============================================================================
 def ejercicio_10():
