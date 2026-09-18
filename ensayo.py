@@ -1,0 +1,12 @@
+x=10
+print(x)
+print(id(x))
+y=x
+print(y)
+print(id(y))
+x=20
+print(x)
+print(id(x))
+print(y)
+x=10
+print(id(x))

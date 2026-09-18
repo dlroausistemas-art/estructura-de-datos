@@ -1,0 +1,26 @@
+print("Matriz A")
+
+a = int(input("Número 1: "))
+b = int(input("Número 2: "))
+c = int(input("Número 3: "))
+d = int(input("Número 4: "))
+
+A = [[a, b], [c, d]]
+
+print("Matriz B")
+
+e = int(input("Número 1: "))
+f = int(input("Número 2: "))
+g = int(input("Número 3: "))
+h = int(input("Número 4: "))
+
+B = [[e, f], [g, h]]
+
+R = [
+    [a*e + b*g, a*f + b*h],
+    [c*e + d*g, c*f + d*h]
+]
+
+print("Matriz A:", A)
+print("Matriz B:", B)
+print("Matriz resultado:", R)
